@@ -9,7 +9,7 @@ netflix_titles.csv
 
 These 2 files must be in the same folder
 
-you need to make sure you have done the following installs in command prompt BEFORE launching or it will not work simply run the following commands in command prompt
+you need to make sure you have done the following installs in command prompt before launching or it will not work simply run the following commands in command prompt
 
      pip install pandas 
      pip install dash 
