@@ -4,7 +4,7 @@ This project is a movie recommender application it takes a users chosen movie an
 To start this application
 
 You need:
-MovieRecommenderApp.py
+MovieRecommender.py
 netflix_titles.csv 
 
 These 2 files must be in the same folder
@@ -17,7 +17,7 @@ you need to make sure you have done the following installs in command prompt bef
      pip install plotly 
      pip install dash_bootstrap_components 
 
-Then run the MovieRecommenderApp.py application in IDE 
+Then run the MovieRecommender.py application in IDE 
 
 ![a45af692f82853f2af7158a7b5da55c4](https://github.com/SilverHolo/CourseProject/assets/73237866/7fa69e0f-5261-4b97-ac7e-89c7292b8e54)
 
