@@ -23,5 +23,6 @@ Then run the MovieRecommender.py application in IDE
 ![a45af692f82853f2af7158a7b5da55c4](https://github.com/SilverHolo/CourseProject/assets/73237866/7fa69e0f-5261-4b97-ac7e-89c7292b8e54)
 
 Then you go to http://127.0.0.1:8050/ should also be output in IDE or can enter manually and input a movie or show to recieve you recommendations 
+Presentation video: https://www.youtube.com/watch?v=MUSF0Z9y15Q 
 
 The application checks imports and packages and libraries. Then loads movie and show data and launches the website using DASH and BOOTSTRAP that have the UI Component. Then uses a callbacks and associated functions to check and compare related descriptions using BM25 and calculates the simularities in the descriptions and outputs the top 5 using a simularity score. 
