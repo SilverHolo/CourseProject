@@ -4,7 +4,8 @@ This project is a movie recommender application it takes a users chosen movie an
 To start this application
 
 You need:
-MovieRecommender.py
+MovieRecommender.py 
+
 netflix_titles.csv 
 
 These 2 files must be in the same folder
